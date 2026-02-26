@@ -87,6 +87,7 @@ GET /movie?id={id}    → 영화 상세 정보
 
 ## 📸 스크린샷
 
+- 시연영상 : https://imgur.com/a/GkPvGUl
 <div align="center">
   <img src="./lib/widgets/screenshot-main.png" width="250" />
   <img src="./lib/widgets//screenshot-detail1.png" width="250" />
@@ -139,6 +140,6 @@ There are multiple heroes that share the same tag within a subtree.
 
 | 졸업 과제 | 설명 | 링크 |
 |---|---|:---:|
-| **#1 Interactive Movie** | AnimationController 기반 인터랙티브 UI | [Repo](https://github.com/WAcAW9/2025_FlutterChallenge_Animation) |
-| **#2 Any Movie** | 외부 API 연동 영화 앱 (현재) | - |
-| **#3 MoodTracker** | Firebase 인증 + DB 감정 기록 앱 | [Repo](https://github.com/WAcAW9/2025_FlutterChallenge_MoodTracker) |
+| **Interactive Movie** | AnimationController 기반 인터랙티브 UI | [Repo](https://github.com/WAcAW9/2025_FlutterChallenge_Animation) |
+| **Any Movie** | 외부 API 연동 영화 앱 (현재) | - |
+| **MoodTracker** | Firebase 인증 + DB 감정 기록 앱 | [Repo](https://github.com/WAcAW9/2025_FlutterChallenge_MoodTracker) |
